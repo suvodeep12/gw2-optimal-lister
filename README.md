@@ -5,7 +5,7 @@
 
 A simple Python GUI application that utilizes the official Guild Wars 2 API to fetch Trading Post data and suggest an "optimal" listing price and quantity for items. Helps players make informed decisions when selling items on the trading post by comparing potential listing profits against instant sell profits.
 
-![Screenshot Placeholder](screenshot.png)
+![screenshot](https://github.com/user-attachments/assets/60e1225d-46a0-42e6-84c9-e11d8f7c0a78)
 
 ## Features
 
