@@ -33,8 +33,8 @@ A simple Python GUI application that utilizes the official Guild Wars 2 API to f
 
     - Clone the repository:
       ```bash
-      git clone https://github.com/your-username/your-repo-name.git
-      cd your-repo-name
+      git clone https://github.com/suvodeep12/gw2-optimal-lister.git
+      cd gw2-optimal-lister
       ```
     - Or, download the ZIP file from GitHub and extract it.
 
